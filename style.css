@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.food{
+    color: orange;
+}
+
+.container{
+    max-width: 1220px;
+    margin: 0px;
+}
+
+
+.navbar{
+    margin-top: 50px;
+}
+
+
+h2{
+    width: 106px;
+    height: 38.55px;
+    left: -498px; 
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+a{
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+}
+
+
+.lulu{
+    display: flex;
+    justify-content: space-between;
+    color: black;
+    gap: 50px;
+    left: 80px;
+}
+
+
+
+.sign{
+  width: 120px;
+  height: 50px;
+  border-radius: 5px;
+  background: #FF7A50;
+  color: white;
+  gap: 15px;
+  position: absolute;
+  top: 40px;
+}
+
+h1{
+ font-size: 66px;
+}
+
+.service{
+    width: 513px;
+    height: 66px;
+    top: 497px;
+    left: 96px;
+    color: #363853;
+    
+}
+
+.explore{
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    background: #FF7A50;
+    color: white;
+    gap: 15px;
+    position: absolute;
+}
+
+.img{
+    width: 728px;
+    height: 681px;
+    top: 157px;
+    left: 625px;
+    
+}
